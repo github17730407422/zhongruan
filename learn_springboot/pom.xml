@@ -12,8 +12,8 @@
 	<groupId>com.dj</groupId>
 	<artifactId>learn_springboot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo2-1</name>
-	<description>Demo project for Spring Boot</description>
+	<name>learn_springboot</name>
+	<description>Demo project for learn_springboot</description>
 
 	<properties>
 		<java.version>1.8</java.version>

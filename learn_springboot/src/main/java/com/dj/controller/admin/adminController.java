@@ -11,7 +11,7 @@ public class adminController {
 	@RequestMapping("admin")
 	public String admin() {
 		System.out.println("adminController.admin()");
-		return "admin/login";
+		return "login";
 	}
 
 }
